@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StringRFirst
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StringRFirst\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ c
+comment2.target=boolean\ isUnique(char[],\ char)
+numComments=3

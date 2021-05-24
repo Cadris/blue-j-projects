@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UniqueChar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ c
+comment2.target=boolean\ isUnique(char[],\ char)
+comment3.params=arr
+comment3.target=boolean\ isValid(char[])
+numComments=4

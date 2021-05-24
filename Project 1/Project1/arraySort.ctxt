@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=arraySort
+comment0.text=\r\n\ To\ sort\ a\ Array\ using\ Array.Sort()\ of\ the\ util\ package.\r\n\r\n\ @author\ (Sayan)\r\n\ @version\ (1.0.0.1)\r\n
+comment1.params=
+comment1.target=arraySort()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ arraySort\r\n
+comment2.params=arr
+comment2.target=void\ sortArrayFullAsc(int[])
+comment2.text=\r\n\ Sort\ a\ Array\ fully\ in\ ascending\ order\r\n\r\n\ @param\ \ arr[]\ \ a\ array\ to\ sort\r\n\ @void\ \ \ \ print\ the\ sorted\ Array\r\n
+comment3.params=arr\ start\ end
+comment3.target=void\ sortArrayPartAsc(int[],\ int,\ int)
+comment3.text=\r\n\ Sort\ an\ Array\ fully\ partially\r\n\r\n\ @param\ \ arr[]\ \ a\ array\ to\ sort\r\n\ @param\ \ start\ \ start\ of\ the\ sort\r\n\ @param\ \ end\ \ end\ of\ the\ sort\r\n\ @void\ \ \ \ print\ the\ sorted\ Array\r\n
+comment4.params=arr
+comment4.target=int[]\ bubbleSort(int[])
+numComments=5
